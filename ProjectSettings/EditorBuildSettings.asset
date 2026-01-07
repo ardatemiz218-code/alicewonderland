@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/01_Garden.unity
+    guid: d8d91be05abe8496e8b301bbc0541f7b
+  - enabled: 1
+    path: Assets/Scenes/02_RabbitHole.unity
+    guid: 1a0d5728bdd124c42a7d68c07c2b0b67
+  - enabled: 1
+    path: Assets/Scenes/03_House.unity
+    guid: d4ee9f4ea820f4ebfb5a01cb047b2828
+  - enabled: 1
+    path: Assets/Scenes/04_Water.unity
+    guid: c96fd6aad2f344d869a219526a5b5f6d
+  - enabled: 1
+    path: Assets/Scenes/05_Shore.unity
+    guid: b01fab5d7dd344d4f95a656b7b28c6aa
+  - enabled: 1
+    path: Assets/Scenes/06_RabbitHouse.unity
+    guid: 6eedd43a8ce344b1da25dd6367478c66
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
