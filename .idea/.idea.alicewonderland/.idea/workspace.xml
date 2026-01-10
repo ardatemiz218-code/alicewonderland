@@ -6,11 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="f72d9267-e7f3-45a0-82e1-fb30861d3aaa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations&amp;Character/AliceAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations&amp;Character/AliceAnimatorController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations&amp;Character/Peasant_Girl_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations&amp;Character/Peasant_Girl_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player(Alice).prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player(Alice).prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Garden.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Garden.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_RabbitHole.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/02_RabbitHole.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_House.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/03_House.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/04_Water.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/04_Water.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SceneLoaderTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SceneLoaderTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +30,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatHoleDisappear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatRunToHole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RabbitArrowIndicator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoaderTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@3351acaba9c9/Editor/Configuration/CloudEdition/Welcome/AutoLogin.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Runtime/UniversalAdditionalCameraData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Shaders/Terrain/TerrainLit.shader" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -99,7 +113,9 @@
       <updated>1767356102909</updated>
       <workItem from="1767356104193" duration="1080000" />
       <workItem from="1767781414485" duration="1092000" />
-      <workItem from="1767793704116" duration="3520000" />
+      <workItem from="1767793704116" duration="4351000" />
+      <workItem from="1767941491090" duration="65000" />
+      <workItem from="1767986376253" duration="7576000" />
     </task>
     <servers />
   </component>
