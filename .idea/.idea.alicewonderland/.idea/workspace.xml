@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f72d9267-e7f3-45a0-82e1-fb30861d3aaa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations&amp;Character/AliceAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations&amp;Character/AliceAnimatorController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/05_Shore.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/05_Shore.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/LoadSceneOnExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatHoleDisappear.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatRunToHole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CutSceneBindAlice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntroSequence_AfterCryLoad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSize.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RabbitArrowIndicator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoaderTrigger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -103,6 +108,7 @@
       <workItem from="1767941491090" duration="65000" />
       <workItem from="1767986376253" duration="8210000" />
       <workItem from="1768128749401" duration="3000" />
+      <workItem from="1768142832359" duration="6351000" />
     </task>
     <servers />
   </component>
