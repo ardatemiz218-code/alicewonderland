@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/06_RabbitHouse.unity
     guid: 6eedd43a8ce344b1da25dd6367478c66
+  - enabled: 1
+    path: Assets/Scenes/07_Last.unity
+    guid: 7e369c04b403245c78da74a06ef7620e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

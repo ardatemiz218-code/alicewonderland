@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f72d9267-e7f3-45a0-82e1-fb30861d3aaa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations&amp;Character/AliceAnimatorController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations&amp;Character/AliceAnimatorController.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/05_Shore.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/05_Shore.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LoadSceneOnExit.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LoadSceneOnExit.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/06_RabbitHouse.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/06_RabbitHouse.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sig_LoadNextScene.signal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sig_LoadNextScene.signal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSize.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RabbitArrowIndicator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoaderTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShowForSeconds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@3351acaba9c9/Editor/Configuration/CloudEdition/Welcome/AutoLogin.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Runtime/UniversalAdditionalCameraData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
@@ -108,7 +113,9 @@
       <workItem from="1767941491090" duration="65000" />
       <workItem from="1767986376253" duration="8210000" />
       <workItem from="1768128749401" duration="3000" />
-      <workItem from="1768142832359" duration="6351000" />
+      <workItem from="1768142832359" duration="6534000" />
+      <workItem from="1768221678548" duration="241000" />
+      <workItem from="1768223946782" duration="2600000" />
     </task>
     <servers />
   </component>
