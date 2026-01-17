@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f72d9267-e7f3-45a0-82e1-fb30861d3aaa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LoadSceneOnExit.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LoadSceneOnExit.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ground .prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ground .prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Garden.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Garden.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_RabbitHole.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/02_RabbitHole.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/05_Shore.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/05_Shore.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/06_RabbitHouse.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/06_RabbitHouse.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sig_LoadNextScene.signal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sig_LoadNextScene.signal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/07_Last.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/07_Last.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +23,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/LoadSceneOnExit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatHoleDisappear.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatRunToHole.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CutSceneBindAlice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FinishMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntroSequence_AfterCryLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSize.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RabbitArrowIndicator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoaderTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShowForSeconds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@3351acaba9c9/Editor/Configuration/CloudEdition/Welcome/AutoLogin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@24c85c372d98/Runtime/Debugging/DebugUI.Fields.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Runtime/UniversalAdditionalCameraData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@e6a37f17fabd/Shaders/Terrain/TerrainLit.shader" root0="SKIP_HIGHLIGHTING" />
@@ -116,6 +119,7 @@
       <workItem from="1768142832359" duration="6534000" />
       <workItem from="1768221678548" duration="241000" />
       <workItem from="1768223946782" duration="2600000" />
+      <workItem from="1768577762412" duration="2807000" />
     </task>
     <servers />
   </component>
