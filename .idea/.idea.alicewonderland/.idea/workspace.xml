@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f72d9267-e7f3-45a0-82e1-fb30861d3aaa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.alicewonderland/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/04_Water.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/04_Water.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CatFollow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CatFollow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CatRunToHole.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CatRunToHole.cs" afterDir="false" />
-    </list>
+    <list default="true" id="f72d9267-e7f3-45a0-82e1-fb30861d3aaa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +111,7 @@
       <workItem from="1768221678548" duration="241000" />
       <workItem from="1768223946782" duration="2600000" />
       <workItem from="1768577762412" duration="2807000" />
-      <workItem from="1769018654553" duration="1725000" />
+      <workItem from="1769018654553" duration="1913000" />
     </task>
     <servers />
   </component>
