@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class CatFollow : MonoBehaviour
@@ -6,6 +7,12 @@ public class CatFollow : MonoBehaviour
     public float followSpeed = 3f;
     public float stopDistance = 1.2f;
     public float turnSpeed = 10f;
+    [SerializeField] private Animator animator;
+
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
 
     void Update()
     {
@@ -17,6 +24,11 @@ public class CatFollow : MonoBehaviour
 
         if (flat.magnitude > stopDistance)
         {
+            if (animator != null)
+            {
+                animator.SetFloat("Vert", 1);
+                animator.SetFloat("State", 1);
+            }
             Vector3 dir = flat.normalized;
             transform.position += dir * followSpeed * Time.deltaTime;
 
